@@ -1,8 +1,6 @@
 body {
-    background-color: #d5ecc2;
     margin: 0;
     padding: 0;
-    
 }
 
 #center-about {
@@ -52,9 +50,7 @@ nav li {
     display: inline-block;
     margin: 1%;
     float: left;
-    padding-top: 47%;
-    
-
+    padding-top: 46.5%;
 }
 
 nav a {
@@ -73,24 +69,34 @@ nav a:hover {
   background-image: url("https://i.imgur.com/7vMwo.jpg");
   
   
-
-  /* Set a specific height */
   min-height: 800px; 
 
-  /* Create the parallax scrolling effect */
+  
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-size: 100%;
+  background-size: 90%;
 }
 
 .style {
   height: 900px;
   background-color:#d5ecc2;
   font-size: 15px;
+  
 }
 
 #welcome {
   padding-top: 6%;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(78, 73, 73);
+  color: white;
+  text-align: center;
+  height: 8%;
 }
