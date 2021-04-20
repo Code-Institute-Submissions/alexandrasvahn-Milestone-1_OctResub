@@ -11,18 +11,18 @@ body {
   }
 
 #circle-container {
-    width: 420px;
-    height: 420px;
+    width: 380px;
+    height: 380px;
     padding: 25px;
     border-style: solid;
     border-color: #ffd3b4;
-    border-width: 2px;
+    border-width: 3px;
     border-radius: 50%;
     margin: 0 auto;  
   }
   
 #circle-cover-bg {
-    background: url(https://scontent.farn2-1.fna.fbcdn.net/v/t1.6435-9/151021783_10159062888769568_6357512492162560386_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=JegqooaCkLMAX-LpcGG&_nc_ht=scontent.farn2-1.fna&oh=f0a8bcf1b2cd41576437887bdd1bc351&oe=60A21D80) no-repeat center center;
+    background: url(https://scontent.farn2-1.fna.fbcdn.net/v/t1.6435-9/176076404_10159215242549568_302139941472085739_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=p1GZuydoZWYAX-J7SUe&_nc_ht=scontent.farn2-1.fna&oh=7b6e40569b1aff47f5d4c16c4fbd43af&oe=60A3FEC5) no-repeat center center;
     height: 100%;
     border-radius: 50%;
     
@@ -36,7 +36,7 @@ body {
     font-size: 200%;
   }
 
-  nav ul {
+nav ul {
     list-style: none;
     background-color: #ffd3b4;
     text-align: center;
@@ -46,12 +46,13 @@ body {
 }
 
 nav li {
-    font-size: 1.2em;
+    font-size: 1.8em;
     line-height: 8px;
     height: 1px;
     display: inline-block;
     margin: 1%;
     float: left;
+    padding-top: 50%;
 
 }
 
@@ -73,7 +74,7 @@ nav a:hover {
   
 
   /* Set a specific height */
-  min-height: 500px; 
+  min-height: 800px; 
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
@@ -84,7 +85,11 @@ nav a:hover {
 }
 
 .style {
-  height: 1000px;
+  height: 900px;
   background-color:#d5ecc2;
-  font-size: 36px;
+  font-size: 15px;
+}
+
+#welcome {
+  padding-top: 6%;
 }
