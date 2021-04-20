@@ -1,0 +1,90 @@
+body {
+    background-color: #d5ecc2;
+    margin: 0;
+    padding: 0;
+    
+}
+
+#center-about {
+    width: 33%;
+    margin: 0 auto;
+  }
+
+#circle-container {
+    width: 420px;
+    height: 420px;
+    padding: 25px;
+    border-style: solid;
+    border-color: #ffd3b4;
+    border-width: 2px;
+    border-radius: 50%;
+    margin: 0 auto;  
+  }
+  
+#circle-cover-bg {
+    background: url(https://scontent.farn2-1.fna.fbcdn.net/v/t1.6435-9/151021783_10159062888769568_6357512492162560386_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=JegqooaCkLMAX-LpcGG&_nc_ht=scontent.farn2-1.fna&oh=f0a8bcf1b2cd41576437887bdd1bc351&oe=60A21D80) no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+    
+  }
+
+#club-ethos {
+    height: 600px;
+    text-align: center;
+    padding: 3%;
+    color: #98ddca;
+    font-size: 200%;
+  }
+
+  nav ul {
+    list-style: none;
+    background-color: #ffd3b4;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    
+}
+
+nav li {
+    font-size: 1.2em;
+    line-height: 8px;
+    height: 1px;
+    display: inline-block;
+    margin: 1%;
+    float: left;
+
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffaaa7;
+    display: block;
+}
+
+nav a:hover {
+    background-color: #d5ecc2;
+    color: #98ddca;
+    padding: 1px 1px;
+}
+
+.parallax {
+  background-image: url("https://i.imgur.com/7vMwo.jpg");
+  
+  
+
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+}
+
+.style {
+  height: 1000px;
+  background-color:#d5ecc2;
+  font-size: 36px;
+}
