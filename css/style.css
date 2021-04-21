@@ -1,6 +1,9 @@
 body {
     margin: 0;
     padding: 0;
+    height: 400%;
+    
+    
 }
 
 #center-about {
@@ -9,8 +12,8 @@ body {
   }
 
 #circle-container {
-    width: 380px;
-    height: 380px;
+    width: 350px;
+    height: 350px;
     padding: 25px;
     border-style: solid;
     border-color: #ffd3b4;
@@ -36,7 +39,7 @@ body {
 
 nav ul {
     list-style: none;
-    background-color: #ffd3b4;
+    
     text-align: center;
     padding: 0;
     margin: 0;
@@ -48,9 +51,10 @@ nav li {
     line-height: 8px;
     height: 1px;
     display: inline-block;
-    margin: 1%;
+    margin: 0;
     float: left;
-    padding-top: 46.5%;
+    padding-top: 1%;
+    padding-left: 20%;
 }
 
 nav a {
@@ -60,7 +64,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #d5ecc2;
+    background-color: #fff;
     color: #98ddca;
     padding: 1px 1px;
 }
@@ -76,27 +80,35 @@ nav a:hover {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-size: 90%;
+  background-size: 80%;
 }
 
 .style {
-  height: 900px;
-  background-color:#d5ecc2;
   font-size: 15px;
+  
   
 }
 
 #welcome {
-  padding-top: 6%;
+  
+  margin-top: 1%;
 }
 
 .footer {
   position: fixed;
-  left: 0;
   bottom: 0;
-  width: 100%;
-  background-color: rgb(78, 73, 73);
+  width: 78%;
   color: white;
   text-align: center;
-  height: 8%;
+  height: 7%;
+  background: rgba(0, 0, 0, 0.5); ;
+  margin-left: 11.5%;
+  
 }
+
+div.transbox {
+  margin: 35px 95px 200px 95px;
+  border: 1px solid black;
+  
+}
+
