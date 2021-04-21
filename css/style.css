@@ -2,7 +2,7 @@
 body {
     margin: 0;
     padding: 0;
-    height: 400%;
+    height: 200%;
 }
 
 #center-about {
@@ -84,7 +84,7 @@ nav a:hover {
 }
 
 #welcome {
-  margin-top: 1%;
+  margin-top: 2.7%;
   color: #03506f;
 }
 
@@ -94,9 +94,10 @@ nav a:hover {
   width: 78%;
   color: white;
   text-align: center;
-  height: 6%;
+  height: 5%;
   background: rgba(0, 0, 0, 0.5); ;
   margin-left: 11.5%;
+  margin-bottom: 4.9%;
   
 }
 
