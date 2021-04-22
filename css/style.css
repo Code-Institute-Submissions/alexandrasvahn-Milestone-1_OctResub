@@ -211,3 +211,22 @@ div .box-three {
   line-height: 1.2em;
   padding-bottom: 5%;
 }
+
+div #who {
+  color:#03506f;
+  text-align: center;
+  padding-top: 10%;
+  padding-right: 2%;
+}
+
+.element {
+  display: inline-block;
+  background: white;
+  width: 400px;
+  height: 270px;
+  border: 1px solid #cdd0cb;
+  margin-left: 15%;
+  margin-top: 1%;
+  padding-bottom: 20%;
+  margin-bottom: 30%;
+}
