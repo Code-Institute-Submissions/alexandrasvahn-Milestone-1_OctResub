@@ -1,5 +1,5 @@
 
-body {
+body .class-for-index {
     margin: 0;
     padding: 0;
     height: 200%;
@@ -167,4 +167,14 @@ div.transbox {
   width: 20%;
   margin-left: 40%;
   
+}
+
+.style-2 {
+  text-align: center;
+  padding: 10%;
+}
+
+#welcome-c {
+  color: #03506f;
+  text-align: center;
 }
