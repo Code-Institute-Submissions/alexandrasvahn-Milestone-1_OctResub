@@ -170,7 +170,7 @@ div.transbox {
 
 .company {
   text-align: center;
-  color: yellow;
+  color: #03506f;
   padding-top: 10%;
   padding-right: 3%;
 }
@@ -182,7 +182,15 @@ div.transbox {
 }
 
 .role-dig {
-  color:pink;
+  color: black;
   text-align: center;
   padding-right: 3%;
+}
+
+div .box {
+  width: 600px;
+  height: 300px;
+  padding: 10px;
+  border: 2px solid gray;
+  margin-left: 29%;
 }
