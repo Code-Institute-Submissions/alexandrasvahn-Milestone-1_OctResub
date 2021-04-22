@@ -182,7 +182,7 @@ div .box {
   width: 600px;
   height: 270px;
   padding: 10px;
-  border: 1px solid gray;
+  border: 1px solid #cdd0cb;
   margin-left: 29%;
 }
 
@@ -190,7 +190,7 @@ div .box-two {
   width: 600px;
   height: 270px;
   padding: 10px;
-  border: 1px solid gray;
+  border: 1px solid #cdd0cb;
   margin-left: 29%;
 }
 
@@ -198,7 +198,16 @@ div .box-three {
   width: 600px;
   height: 270px;
   padding: 10px;
-  border: 1px solid gray;
+  border: 1px solid #cdd0cb;
   margin-left: 29%;
   margin-bottom: 5%;
+}
+
+.quote {
+  text-align: center;
+  color: #999b84;
+  font-weight: 100;
+  padding-right: 3%;
+  line-height: 1.2em;
+  padding-bottom: 5%;
 }
