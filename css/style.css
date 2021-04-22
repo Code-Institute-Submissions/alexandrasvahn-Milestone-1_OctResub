@@ -1,5 +1,5 @@
 
-body .class-for-index {
+body{
     margin: 0;
     padding: 0;
     height: 200%;
@@ -169,12 +169,23 @@ div.transbox {
   
 }
 
-.style-2 {
+div h1 {
+  color: purple;
+  padding-top: 10%;
   text-align: center;
-  padding: 10%;
+  padding-right: 5%;
 }
 
-#welcome-c {
-  color: #03506f;
+.company {
   text-align: center;
+  color: yellow;
+  padding-top: 10%;
+  padding-right: 5%;
+}
+
+.role {
+  padding-right: 5%;
+  text-align: center;
+  color:red
+  
 }
