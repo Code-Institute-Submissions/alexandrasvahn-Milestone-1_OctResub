@@ -166,26 +166,23 @@ div.transbox {
   line-height: 80px;
   width: 20%;
   margin-left: 40%;
-  
-}
-
-div h1 {
-  color: purple;
-  padding-top: 10%;
-  text-align: center;
-  padding-right: 5%;
 }
 
 .company {
   text-align: center;
   color: yellow;
   padding-top: 10%;
-  padding-right: 5%;
+  padding-right: 3%;
 }
 
 .role {
-  padding-right: 5%;
+  padding-right: 3%;
   text-align: center;
   color:red
-  
+}
+
+.role-dig {
+  color:pink;
+  text-align: center;
+  padding-right: 3%;
 }
