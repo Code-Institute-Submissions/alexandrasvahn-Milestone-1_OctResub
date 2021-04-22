@@ -88,18 +88,6 @@ nav a:hover {
   color: #03506f;
 }
 
-.footer {
-  position: fixed;
-  bottom: 0;
-  width: 78%;
-  color: white;
-  text-align: center;
-  height: 5%;
-  background: rgba(0, 0, 0, 0.5); ;
-  margin-left: 11.5%;
-  margin-bottom: 4.9%;
-  
-}
 
 div.transbox {
   margin: 35px 95px 200px 95px;
@@ -171,26 +159,46 @@ div.transbox {
 .company {
   text-align: center;
   color: #03506f;
-  padding-top: 10%;
+  padding-top: 7.5%;
   padding-right: 3%;
+  line-height: 80%;
 }
 
 .role {
   padding-right: 3%;
   text-align: center;
-  color:red
+  color:#98ddca;
 }
 
-.role-dig {
+div .text {
   color: black;
-  text-align: center;
-  padding-right: 3%;
+  text-align: left;
+  padding: 2%;
+  font-style: normal;
+  font-weight: lighter;
 }
 
 div .box {
   width: 600px;
-  height: 300px;
+  height: 270px;
   padding: 10px;
-  border: 2px solid gray;
+  border: 1px solid gray;
   margin-left: 29%;
+}
+
+div .box-two {
+  width: 600px;
+  height: 270px;
+  padding: 10px;
+  border: 1px solid gray;
+  margin-left: 29%;
+}
+
+div .box-three {
+  width: 600px;
+  height: 270px;
+  padding: 10px;
+  border: 1px solid gray;
+  margin-left: 29%;
+  margin-bottom: 5%;
 }
