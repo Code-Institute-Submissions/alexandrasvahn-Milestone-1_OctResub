@@ -234,21 +234,33 @@ div #who {
   height: 270px;
   padding: 10px;
   border: 1px solid #cdd0cb;
-  margin-top: 2%;
-  margin-bottom: 5%;
+  margin-top: 4%;
   }
 
 
   div .black-horses {
-    padding-left: 38%; 
+    padding-left: 38.2%;
+    margin-bottom: 5%;
   }
 
   div .horses {
-  background-color: lightgrey;
+  background-color: #c6ebc9;
   width: 300px;
-  border: 2px solid green;
+  border: 2px solid #03506f;
   padding: 50px;
   margin: 20px;
+  height: 300px;
   }
 
+  div .birds {
+    text-align: center;
+  }
   
+  div .fish {
+    float: left;
+  }
+
+  div .pig {
+    text-align: center;
+    color:#03506f;
+  }
