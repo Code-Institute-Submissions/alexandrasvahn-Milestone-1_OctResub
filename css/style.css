@@ -79,7 +79,9 @@ nav a:hover {
 }
 
 .style {
-  font-size: 15px;
+  font-size: 110%;
+  list-style-type: none;
+  letter-spacing: 4px;
 }
 
 #welcome {
@@ -264,3 +266,4 @@ div #who {
     text-align: center;
     color:#03506f;
   }
+
