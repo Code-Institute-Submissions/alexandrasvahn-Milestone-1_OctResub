@@ -214,6 +214,7 @@ div .box-three {
   padding-right: 3%;
   line-height: 1.2em;
   padding-bottom: 5%;
+  margin-top: 8%;
 }
 
 div #who {
@@ -223,48 +224,3 @@ div #who {
   padding-right: 2%;
 }
 
-  div .boxfour {
-  width: 500px;
-  height: 270px;
-  padding: 10px;
-  border: 1px solid #cdd0cb;
-  margin-top: 2%;
-  }
-  
-  div .boxfive {
-  width: 500px;
-  height: 270px;
-  padding: 10px;
-  border: 1px solid #cdd0cb;
-  margin-top: 4%;
-  }
-
-
-  div .black-horses {
-    padding-left: 38.2%;
-    margin-bottom: 5%;
-  }
-
-  div .horses {
-  background-color: #c6ebc9;
-  width: 300px;
-  border: 2px solid #03506f;
-  padding: 50px;
-  margin: 20px;
-  height: 300px;
-  }
-
-  div .birds {
-    text-align: center;
-  }
-  
-  div .fish {
-    float: left;
-  }
-
-  div .pig {
-    text-align: center;
-    color:#03506f;
-  }
-
-  
