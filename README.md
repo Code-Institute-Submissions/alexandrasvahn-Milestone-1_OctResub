@@ -27,14 +27,16 @@ Interactive elements
 
 ## Technologies Used
 <br>
-HTML5 
-CSS3
+[HTML5] (https://sv.wikipedia.org/wiki/HTML5)
+[CSS3] (https://en.wikipedia.org/wiki/CSS)
 
 ### Frameworks, Libraries & Programs used
-Bootstrap 5.0:
-Bootstrap was used to assist with the responsiveness and styling of the website.
-Hover.css:
-Hover.css was used on the Social Media icons on the left side.
+
+<ul>
+<li #### Bootstrap 5.0:>
+Bootstrap was used to assist with the responsiveness and styling of the website.</li>
+<li #### Hover.css:>
+Hover.css was used on the Social Media icons on the left side.</li>
 Font awesome:
 Font Awesome was used on all pages throughout the website in the socail media bar.
 JQueri:
@@ -106,6 +108,5 @@ All content was written by the developer.
 Students support in Slack for their support.
 [w3schools] (https://www.w3schools.com/html/default.asp) For their pedagogical walkthroughs when you have an answer about HTML Syntax.
 My Mentor for helpful feedback.
-
 
 
