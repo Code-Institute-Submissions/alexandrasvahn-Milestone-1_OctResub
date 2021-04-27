@@ -27,6 +27,7 @@ Interactive elements
 
 ## Technologies Used
 <br>
+
 [HTML5](https://sv.wikipedia.org/wiki/HTML5)
 [CSS3](https://en.wikipedia.org/wiki/CSS)
 
@@ -106,7 +107,7 @@ All content was written by the developer.
 
 ### Acknowledgements
 Students support in Slack for their support.
-[w3schools] (https://www.w3schools.com/html/default.asp) For their pedagogical walkthroughs when you have an answer about HTML Syntax.
+[w3schools](https://www.w3schools.com/html/default.asp) For their pedagogical walkthroughs when you have an answer about HTML Syntax.
 My Mentor for helpful feedback.
 
 
