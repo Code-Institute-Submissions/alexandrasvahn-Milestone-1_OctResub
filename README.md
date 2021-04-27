@@ -1,11 +1,11 @@
 # My very first webpage
 
-[View the live project here] (https://alexandrasvahn.github.io/Milestone-1/)
+[View the live project here](https://alexandrasvahn.github.io/Milestone-1/)
 
 This is a  Interactive Resume that is designed to be responsibe and accessible on a range of devices, 
 making it easy to navigate for people who wants to know more about me or come in contact. 
 
-## User stories
+### User stories
 <br>
 
 ### Visitor goals 
@@ -27,26 +27,26 @@ Interactive elements
 
 ## Technologies Used
 <br>
-[HTML5] (https://sv.wikipedia.org/wiki/HTML5)
-[CSS3] (https://en.wikipedia.org/wiki/CSS)
+[HTML5](https://sv.wikipedia.org/wiki/HTML5)
+[CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ### Frameworks, Libraries & Programs used
 
 <ul>
-<li #### Bootstrap 5.0:>
+<li  Bootstrap 5.0:>
 Bootstrap was used to assist with the responsiveness and styling of the website.</li>
-<li #### Hover.css:>
+<li  Hover.css:>
 Hover.css was used on the Social Media icons on the left side.</li>
-Font awesome:
-Font Awesome was used on all pages throughout the website in the socail media bar.
-JQueri:
-jQuery came with Bootstrap to make the navbar responsive
-Git:
-Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-GitHub:
-GitHub is used to store the projects code after being pushed from Git.
-Pinterest:
-Pinterest was used to finding me hero [image](https://www.pinterest.se/pin/91901648616888463/)
+<li Font awesome:>
+Font Awesome was used on all pages throughout the website in the socail media bar.</li>
+<li JQueri:>
+jQuery came with Bootstrap to make the navbar responsive</li>
+<li Git:>
+Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.</li>
+<li GitHub:>
+GitHub is used to store the projects code after being pushed from Git.</li>
+<li Pinterest:>
+Pinterest was used to finding me hero [image](https://www.pinterest.se/pin/91901648616888463/)</li>
 
 ### Further Testing
 <br>
@@ -98,7 +98,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 <br>
 
 ### Code
-The hero image picture come from this pinterest page (https://www.pinterest.se/pin/91901648616888463/)
+The hero image picture come from this pinterest [page](https://www.pinterest.se/pin/91901648616888463/)
 Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
 ### Content
