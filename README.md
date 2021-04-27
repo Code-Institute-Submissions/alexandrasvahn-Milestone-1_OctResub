@@ -28,8 +28,10 @@ Interactive elements
 ## Technologies Used
 <br>
 
-[HTML5](https://sv.wikipedia.org/wiki/HTML5)
-[CSS3](https://en.wikipedia.org/wiki/CSS)
+<ul>
+<li>[HTML5](https://sv.wikipedia.org/wiki/HTML5)</li>
+<li>[CSS3](https://en.wikipedia.org/wiki/CSS)</li>
+</ul>
 
 ### Frameworks, Libraries & Programs used
 
