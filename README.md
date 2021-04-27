@@ -34,19 +34,19 @@ Interactive elements
 ### Frameworks, Libraries & Programs used
 
 <ul>
-<li  Bootstrap 5.0:>
+<li> Bootstrap 5.0:
 Bootstrap was used to assist with the responsiveness and styling of the website.</li>
-<li  Hover.css:>
+<li> Hover.css:
 Hover.css was used on the Social Media icons on the left side.</li>
-<li Font awesome:>
+<li> Font awesome:
 Font Awesome was used on all pages throughout the website in the socail media bar.</li>
-<li JQueri:>
+<li> JQueri:
 jQuery came with Bootstrap to make the navbar responsive</li>
-<li Git:>
+<li> Git:
 Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.</li>
-<li GitHub:>
+<li> GitHub:
 GitHub is used to store the projects code after being pushed from Git.</li>
-<li Pinterest:>
+<li> Pinterest:
 Pinterest was used to finding me hero [image](https://www.pinterest.se/pin/91901648616888463/)</li>
 
 ### Further Testing
@@ -64,12 +64,14 @@ On some mobile devices the Hero Image had "to much attention" of the screen and 
 ### GitHub pages:
 The project was deployed to GitHub Pages using the following steps...
 
-Log in to GitHub and locate the GitHub Repository
-At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-Scroll down the Settings page until you locate the "GitHub Pages" Section.
-Under "Source", click the dropdown called "None" and select "Master Branch".
-The page will automatically refresh.
-Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+<ol>
+<li>Log in to GitHub and locate the GitHub Repository</li>
+<li>At the top of the Repository (not top of page), locate the "Settings" Button on the menu.</li>
+<li>Scroll down the Settings page until you locate the "GitHub Pages" Section.</li>
+<li>Under "Source", click the dropdown called "None" and select "Master Branch".</li>
+<li>The page will automatically refresh.</li>
+<li>Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.</li>
+</ol>
 
 ### Forking the GitHub Repository
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
@@ -99,8 +101,11 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 <br>
 
 ### Code
-The hero image picture come from this pinterest [page](https://www.pinterest.se/pin/91901648616888463/)
-Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+
+<ul>
+<li> The hero image picture come from this pinterest [page](https://www.pinterest.se/pin/91901648616888463/)></li>
+<li> Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.></li>
+</ul>
 
 ### Content
 All content was written by the developer.
