@@ -13,11 +13,6 @@ body {
   max-width: 1100px;
 }
 
-#center-about {
-  width: 33%;
-  margin: 0 auto;
-}
-
 .parallax {
   background-image: url("../images/intro-background.jpg");
   min-height: 100vh; 
@@ -25,93 +20,6 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-}
-
-.style {
-  font-size: 110%;
-  list-style-type: none;
-  letter-spacing: 4px;
-}
-
-#welcome {
-  margin-top: 2.7%;
-  color: #03506f;
-}
-
-.transbox {
-  border: 1px solid black;
-  margin: 50px 100px;
-}
-
-.location {
-  float: right;
-  margin-right: 1.5%;
-  font-weight: 300px;
-}
-
-#toptext {
-  border-bottom: 1px solid red;
-  line-height: 80px;
-  width: 20%;
-  margin-left: 40%;
-}
-
-.company {
-  text-align: center;
-  color: #03506f;
-  padding-top: 10%;
-  padding-right: 3%;
-  line-height: 80%;
-}
-
-.role {
-  padding-right: 3%;
-  text-align: center;
-  color:#98ddca;
-}
-
-.dogs {
-  text-align: center;
-}
-
-div .text {
-  color: black;
-  text-align: center;
-  padding: 2%;
-  font-style: normal;
-  font-weight: lighter;
-}
-
-div .box {
-  width: 600px;
-  height: 270px;
-  padding: 10px;
-  border: 1px solid #cdd0cb;
-  margin-left: 29%;
-}
-
-div .box-two {
-  width: 600px;
-  height: 270px;
-  padding: 10px;
-  border: 1px solid #cdd0cb;
-  margin-left: 29%;
-}
-
-div .box-three {
-  width: 600px;
-  height: 270px;
-  padding: 10px;
-  border: 1px solid #cdd0cb;
-  margin-left: 29%;
-  margin-bottom: 5%;
-}
-
-div #who {
-  color:#03506f;
-  text-align: center;
-  padding-top: 12%;
-  padding-right: 2%;
 }
 
 .icon-bar {
