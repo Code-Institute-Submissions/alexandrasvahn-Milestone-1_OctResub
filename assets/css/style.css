@@ -24,6 +24,17 @@ body {
   background-size: cover;
 }
 
+.offcanvas-header {
+  border-bottom: 1px solid var(--bs-gray-300);
+}
+
+@media (max-width: 991px) {
+  .offcanvas-body {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
 .icon-bar {
   display: flex;
   position: fixed;
