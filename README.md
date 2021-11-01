@@ -13,7 +13,6 @@ I want people who visit this page to feel like they get to know me a little bit,
 visiting diffrent social media links or contact me in a form. It contains links to my Facebook, Twitter, Youtube, LinkedIn page as well as my email. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
 
 ## Design
-<br>
 
 ### Color scheme/design
 I want my page to be simple and had there for choosed to go with default bootstrap primary blue color.
@@ -49,13 +48,12 @@ Interactive elements
 </ul>
 
 ### Further Testing
-<br>
+
 The Website was tested on Google Chrome, Internet Explorer and Safari browsers.
 The website was viewed on a variety of devices such as Desktop and Iphone 11.
 A large amount of testing was done to ensure that all pages were linking correctly.
 
 ## Deployment
-<br>
 
 ### GitHub pages:
 The project was deployed to GitHub Pages using the following steps...
@@ -94,13 +92,12 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 > Unpacking objects: 100% (10/10), done.
 
 ## Credits
-<br>
 
 ### Code
 
 <ul>
-    <li> The hero image picture come from unsplash [page](https://unsplash.com)></li>
-    <li> Bootstrap 5: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.></li>
+    <li> The hero image picture come from unsplash [page](https://unsplash.com)</li>
+    <li> Bootstrap 5: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.</li>
 </ul>
 
 ### Content
